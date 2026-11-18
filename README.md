@@ -1,6 +1,6 @@
 # Cyberspace for Android
 
-The Android app for [Cyberspace](https://cyberspace.online), a terminal-style micro social network.
+The Android app for [Cyberspace](https://cyberspace.online).
 
 This repository holds signed release APKs only. Download them from [Releases](https://github.com/unremarkablegarden/cyberspace-android/releases).
 
